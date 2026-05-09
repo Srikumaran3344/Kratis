@@ -1,0 +1,24 @@
+{
+  "name": "kratis",
+  "version": "1.0.0",
+  "description": "2D Pixel Game made using javascript and MAKI framework. (Kratis inspired by greek word Kratos - meaning power, sovereign,..)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Srikumaran3344/Kratis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Srikumaran3344/Kratis/issues"
+  },
+  "homepage": "https://github.com/Srikumaran3344/Kratis#readme",
+  "dependencies": {
+    "@tialops/maki": "^1.1.0"
+  }
+}
